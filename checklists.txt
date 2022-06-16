@@ -1,0 +1,6 @@
+1) The text "Check the additional options" is at the
+bottom of the screen
+2) Four round buttons are available
+3) The second button is active
+4) Swiping the page to the left opens the first screen
+5) Swiping the page to the right opens the third
